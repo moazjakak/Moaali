@@ -1,4 +1,4 @@
-const embeddedPlayerApiKey = 'https://youtu.be/BT4WzyT2g8k';
+const embeddedPlayerApiKey = 'AIzaSyCU58GirlGG14tE_mBMCZbN9VI7vdwaR4U';
 const youtubeApiUrl = 'https://www.googleapis.com/youtube/v3/videos';
 
 document.getElementById('send').addEventListener('click', sendMessage);
